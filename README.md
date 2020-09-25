@@ -3,6 +3,7 @@ https://github.com/Aplyard/Oled-Clicker
 
 A simple counter, implementing an Arduino Nano, a lipo battery & an Oled Display 128x32.  
 Made for no absolute reason  
+Off course it can be hand-wired, but the enclosoure doesn't have enough space for wire spaghetti  
 
 ---
 ![](https://i.imgur.com/B7iRXys.jpg)
