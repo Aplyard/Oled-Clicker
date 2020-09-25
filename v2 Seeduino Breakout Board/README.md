@@ -27,6 +27,6 @@ Board is not yet tasted and it's still in development.
 - [Arduino IDE](https://www.arduino.cc/en/main/software)
 
 ---   
-**Maintainer: Aplyard**  
-**Hardware Supported: Seeduino XIAO SAMD 21 Cortex**  
-**Hardware Availability: Aplyard**
+Maintainer: Aplyard    
+Hardware Supported: Seeduino XIAO SAMD 21 Cortex    
+Hardware Availability: Aplyard  
