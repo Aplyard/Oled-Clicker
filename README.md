@@ -10,7 +10,7 @@ Off course it can be hand-wired, but the enclosoure doesn't have enough space fo
 
 **Components**  
 -
-Arduino Nano  
+[Arduino Nano](https://store.arduino.cc/arduino-nano#:~:text=The%20Arduino%20Nano%20is%20a,instead%20of%20a%20standard%20one.)    
 [tp4056 USB Lipo Charging Module](https://i.imgur.com/EEmYTeY.png)  
 10k Resistor  
 [450mah 1cell Lipo (20h aprox. runtime)](https://i.imgur.com/DlrVCJd.png)  
