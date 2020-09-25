@@ -10,19 +10,19 @@ Off course it can be hand-wired, but the enclosoure doesn't have enough space fo
 
 **Components**  
 -
-[Arduino Nano](https://store.arduino.cc/arduino-nano#:~:text=The%20Arduino%20Nano%20is%20a,instead%20of%20a%20standard%20one.)    
-[tp4056 USB Lipo Charging Module](https://i.imgur.com/EEmYTeY.png)  
-10k Resistor  
-[450mah 1cell Lipo (20h aprox. runtime)](https://i.imgur.com/DlrVCJd.png)  
-[0.91' Oled Display 128x32p](https://i.imgur.com/tNMHrN5.jpg)  
-Cherry MX Switch  
-1 keycap :P
+- [Arduino Nano](https://store.arduino.cc/arduino-nano#:~:text=The%20Arduino%20Nano%20is%20a,instead%20of%20a%20standard%20one.)    
+- [tp4056 USB Lipo Charging Module](https://i.imgur.com/EEmYTeY.png)  
+- 10k Resistor  
+- [450mah 1cell Lipo (20h aprox. runtime)](https://i.imgur.com/DlrVCJd.png)  
+- [0.91' Oled Display 128x32p](https://i.imgur.com/tNMHrN5.jpg)  
+- Cherry MX Switch  
+- 1 keycap :P
 
 **Designed**
 -  
-[Fusion360](https://www.autodesk.com/products/fusion-360/overview)    
-[KiCad](https://github.com/KiCad)    
-[Arduino IDE](https://www.arduino.cc/en/main/software)
+- [Fusion360](https://www.autodesk.com/products/fusion-360/overview)    
+- [KiCad](https://github.com/KiCad)    
+- [Arduino IDE](https://www.arduino.cc/en/main/software)
 
 ---   
 Maintainer: Aplyard  
