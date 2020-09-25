@@ -13,7 +13,7 @@ Off course it can be hand-wired, but the enclosoure doesn't have enough space fo
 Arduino Nano  
 [tp4056 USB Lipo Charging Module](https://i.imgur.com/EEmYTeY.png)  
 10k Resistor  
-[450mah 1cell Lipo](https://i.imgur.com/DlrVCJd.png)  
+[450mah 1cell Lipo (20h aprox. runtime)](https://i.imgur.com/DlrVCJd.png)  
 [0.91' Oled Display 128x32p](https://i.imgur.com/tNMHrN5.jpg)  
 Cherry MX Switch  
 1 keycap :P
