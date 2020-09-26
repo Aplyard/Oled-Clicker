@@ -19,6 +19,11 @@ Arduino Nano
 Cherry MX Switch  
 1 keycap :P
 
+**3d Files**
+-
+You can all the 3d files needed here:
+- [my Thingiverse repo](https://www.thingiverse.com/aplyard/designs)
+
 **Design**
 -  
     
