@@ -18,6 +18,11 @@ Off course it can be hand-wired, but the enclosoure doesn't have enough space fo
 - Cherry MX Switch  
 - 1 keycap :P
 
+**3d Files**
+-
+You can all the 3d files needed here:
+- [my Thingiverse repo](https://www.thingiverse.com/aplyard/designs)
+
 **Designed**
 -  
 - [Fusion360](https://www.autodesk.com/products/fusion-360/overview)    
