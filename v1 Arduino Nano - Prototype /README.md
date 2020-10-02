@@ -3,7 +3,7 @@ https://github.com/Aplyard/Oled-Clicker
 
 This is the v1 of the project.  
 Handwired and tested.  
-
+Disclaimer : Please double check pcb wiring and schematics. I am not responsible for any faults or tachnical issues. You can always feel free to adress any issue to me and i will work them out.
 
 Pcb Breakout
 -  
