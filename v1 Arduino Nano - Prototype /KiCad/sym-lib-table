@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/kbd-master/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "arduino_nano")(type "Legacy")(uri "${KIPRJMOD}/kicad_ArduinoNano-master/libraries/arduino_nano.lib")(options "")(descr ""))
+  (lib (name "tp4056")(type "Legacy")(uri "${KIPRJMOD}/tp4056-master/lib/tp4056.lib")(options "")(descr ""))
+  (lib (name "dw01")(type "Legacy")(uri "${KIPRJMOD}/tp4056-master/lib/dw01.lib")(options "")(descr ""))
+  (lib (name "fs8205a")(type "Legacy")(uri "${KIPRJMOD}/tp4056-master/lib/fs8205a.lib")(options "")(descr ""))
+  (lib (name "Seeeduino_XIAO")(type "Legacy")(uri "${KIPRJMOD}/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+)

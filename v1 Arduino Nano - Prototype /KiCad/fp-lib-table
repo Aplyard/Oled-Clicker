@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "seeeduino")(type "KiCad")(uri "/Volumes/WD500/Projects/Oled_Clicker/KiCad/Clicker/Seeeduino XIAO KICAD")(options "")(descr ""))
+)
