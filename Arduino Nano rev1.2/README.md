@@ -1,4 +1,4 @@
-# Oled Clicker
+# Oled Clicker rev1.2
   
 This  is an updated pcb of the Arduino Nano rev1.  
 Disclaimer : Please double check pcb wiring and schematics. I am not responsible for any faults or technical issues. You can always feel free to adress any issue to me and i will try to work them out.
