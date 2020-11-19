@@ -1,5 +1,4 @@
 # Oled Clicker
-https://github.com/Aplyard/Oled-Clicker
 
 A simple counter, implementing an Arduino Nano, a lipo battery & an Oled Display 128x32.  
 Made for no absolute reason  
