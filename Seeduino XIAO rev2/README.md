@@ -1,10 +1,7 @@
-# Oled Clicker
-https://github.com/Aplyard/Oled-Clicker
+# Oled Clicker Seeduino Xiao rev2
   
 This is the v2 of the parent project. Board is now smaller.   
 Board is not yet tasted and it's still in development.   
-
-
 
 **Breakout Pcb**  
 -  
